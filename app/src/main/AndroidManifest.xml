@@ -12,6 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.EjemplosControlesAvanzados"
         tools:targetApi="31">
+
         <activity
             android:name=".EjemploOptionsMenu"
             android:exported="true" />
